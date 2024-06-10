@@ -108,6 +108,10 @@ h3 {
   color: #1B72B5; /* blue */
 }
 
+h4 {
+  color: #1F2D38; /* dark blue */
+}
+
 p, dl, ol, ul, pre, blockquote {
   margin-top: 1em;
   margin-bottom: 1em;
